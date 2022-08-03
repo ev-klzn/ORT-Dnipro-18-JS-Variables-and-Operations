@@ -1,6 +1,6 @@
 let a = +prompt(`длина ребра куба, см.`);
-console.log(`длина ребра куба, см ${a}.`);
+console.log(`длина ребра куба, ${a} см.`);
 let V = a * a * a;
-console.log(`обьем куба, см ${V}.`);
+console.log(`обьем куба, ${V}см.`);
 let SBok = 4 * (a * a);
 console.log(`Площадь боковой поверхности куба, ${SBok}`);
