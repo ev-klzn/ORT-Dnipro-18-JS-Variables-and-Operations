@@ -5,3 +5,4 @@ y = y * 100;
 y = Math.round(y);
 y = y / 100;
 console.log(`значение y: ${y}.`);
+alert(`значение y: ${y}.`);

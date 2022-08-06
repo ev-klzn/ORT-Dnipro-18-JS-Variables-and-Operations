@@ -7,3 +7,4 @@ c = c * 100;
 c = Math.round(c);
 c = c / 100;
 console.log(`гипотенуза: ${c}.`);
+alert(`гипотенуза: ${c}.`);
